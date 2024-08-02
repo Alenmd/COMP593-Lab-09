@@ -1,4 +1,6 @@
 '''
+Name = Alen Mulangan Davi
+Partners = Krishna Prakash, Emil Mathew George, Shanad
 Library for interacting with the PokeAPI.
 https://pokeapi.co/
 '''

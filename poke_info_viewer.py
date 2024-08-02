@@ -1,4 +1,6 @@
 """ 
+Name = Alen Mulangan Davi
+Partners = Krishna Prakash, Emil Mathew George, Shanad
 Description: 
   Graphical user interface that displays select information about a 
   user-specified Pokemon fetched from the PokeAPI 
